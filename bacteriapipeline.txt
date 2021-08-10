@@ -1,0 +1,8 @@
+Step 1: run BacteriaPipelinePart1.ipynb
+
+Step 2: put the following into the commandline
+nefi -p nefi2/default_pipelines/webs.json -o "C:/Users/ThinkPad/Documents/Personal/Research/BacteriaColonies/Step 3 - nefi output" -d "C:/Users/ThinkPad/Documents/Personal/Research/BacteriaColonies/Step 2 - Darken Background"
+
+Step 3: run BacteriaPipelinePart2.ipynb
+
+Step 4: run MultiGraphDisplayer.ipynb
